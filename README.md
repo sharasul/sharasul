@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharasul
-- 👀 I’m interested in radiology reporting and image interprettion
+- 👀 I’m interested in radiology reporting and image interpretation
 - 🌱 I’m currently learning laravel vue inertia 
 - 💞️ I’m looking to collaborate on dynamic reporting templtes for radiology 
 - 📫 How to reach me sharasul@yahoo.co.uk
